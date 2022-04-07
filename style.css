@@ -1,0 +1,10 @@
+:root {
+    background:#F2F2F2;
+}
+
+.logo {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-size: 175%;
+}
